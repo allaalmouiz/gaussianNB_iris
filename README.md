@@ -1,7 +1,5 @@
 # Gaussian Naive Bayes: Iris Classification Challenge
 
-**Author:** Alaa Almouiz F. Moh. 
-
 ## Overview
 
 This project implements a machine learning solution to predict iris flower species based on physical measurements. It demonstrates the implementation of Gaussian Naive Bayes from scratch and compares it with scikit-learn's built-in version.
@@ -9,6 +7,11 @@ This project implements a machine learning solution to predict iris flower speci
 ## Problem Statement
 
 Given measurements of an iris flower's sepal length, sepal width, petal length, and petal width, predict which species the flower belongs to (Setosa, Versicolor, or Virginica).
+
+
+<p align="center">
+  <img src="GNB.png" alt="GNB Chain of Thoughts" width="900">
+</p>
 
 ## Objectives
 
